@@ -5,11 +5,11 @@ body, html {
   
   .container {
     background-size: cover;
-    color: white;
+    color: rgb(171 147 42);
     height: 100%;
     background-position: center;
     position: relative;
-    font-family: "Courier New", Courier, monospace;
+    font-family: "Nova Round", Regular, monospace;
     font-size: 25px;
   }
   
@@ -22,7 +22,7 @@ body, html {
   }
   
   a {
-    color: white;
+    color: rgb(94 80 15);
   }
 
   hr {
